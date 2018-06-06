@@ -1,0 +1,18 @@
+C:\Users\domin\OneDrive\Public\Documents\GitHub\Graphs\Graphs\Graphs\bin\Debug\netstandard2.0\Graphs.deps.json
+C:\Users\domin\OneDrive\Public\Documents\GitHub\Graphs\Graphs\Graphs\bin\Debug\netstandard2.0\Graphs.dll
+C:\Users\domin\OneDrive\Public\Documents\GitHub\Graphs\Graphs\Graphs\bin\Debug\netstandard2.0\Graphs.pdb
+C:\Users\domin\OneDrive\Public\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.csprojResolveAssemblyReference.cache
+C:\Users\domin\OneDrive\Public\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\domin\OneDrive\Public\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.AssemblyInfoInputs.cache
+C:\Users\domin\OneDrive\Public\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.AssemblyInfo.cs
+C:\Users\domin\OneDrive\Public\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.dll
+C:\Users\domin\OneDrive\Public\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.pdb
+C:\Users\Dominic Barter\Documents\GitHub\Graphs\Graphs\Graphs\bin\Debug\netstandard2.0\Graphs.deps.json
+C:\Users\Dominic Barter\Documents\GitHub\Graphs\Graphs\Graphs\bin\Debug\netstandard2.0\Graphs.dll
+C:\Users\Dominic Barter\Documents\GitHub\Graphs\Graphs\Graphs\bin\Debug\netstandard2.0\Graphs.pdb
+C:\Users\Dominic Barter\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.csprojResolveAssemblyReference.cache
+C:\Users\Dominic Barter\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\Dominic Barter\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.AssemblyInfoInputs.cache
+C:\Users\Dominic Barter\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.AssemblyInfo.cs
+C:\Users\Dominic Barter\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.dll
+C:\Users\Dominic Barter\Documents\GitHub\Graphs\Graphs\Graphs\obj\Debug\netstandard2.0\Graphs.pdb
