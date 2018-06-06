@@ -1,0 +1,10 @@
+C:\Users\domin\OneDrive\Public\Documents\GitHub\UTC_Computing\Database\Database\bin\Debug\Database.dacpac
+C:\Users\domin\OneDrive\Public\Documents\GitHub\UTC_Computing\Database\Database\bin\Debug\Database.dll
+C:\Users\domin\OneDrive\Public\Documents\GitHub\UTC_Computing\Database\Database\bin\Debug\Database.pdb
+C:\Users\domin\OneDrive\Public\Documents\GitHub\UTC_Computing\Database\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\domin\OneDrive\Public\Documents\GitHub\UTC_Computing\Database\Database\obj\Debug\Model.xml
+C:\Users\domin\OneDrive\Public\Documents\GitHub\UTC_Computing\Database\Database\obj\Debug\refactor.xml
+C:\Users\domin\OneDrive\Public\Documents\GitHub\UTC_Computing\Database\Database\obj\Debug\postdeploy.sql
+C:\Users\domin\OneDrive\Public\Documents\GitHub\UTC_Computing\Database\Database\obj\Debug\predeploy.sql
+C:\Users\domin\OneDrive\Public\Documents\GitHub\UTC_Computing\Database\Database\obj\Debug\Database.dll
+C:\Users\domin\OneDrive\Public\Documents\GitHub\UTC_Computing\Database\Database\obj\Debug\Database.pdb
