@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Child]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
